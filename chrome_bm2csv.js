@@ -1,5 +1,5 @@
 /* chrome_bm2csv.js
-Convert Chrome bookmarks (json) to csv
+Convert Chrome bookmarks (json) to csv.
 Inspired by https://github.com/rongjiecomputer/chrome
 */
 
